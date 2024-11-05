@@ -10,7 +10,7 @@ function Allposts() {
   const fetchTutorData = async () => {
     try {
       const response = await axiosInstance.get(
-        "https://hrms-repository-gruhabase.onrender.com/tuition-application/tutorAdvertisement/"
+        "/tuition-application/tutorAdvertisement/"
       );
       setTutorData(response.data); // Set the tutor data received from the API
       setStudentData(null); // Clear student data
