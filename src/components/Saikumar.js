@@ -1,9 +1,10 @@
-import React from 'react'
+import React from "react";
 
-const Saikumar = () => {
-  return (
-    <div>Saikumar</div>
-  )
+const Saikumar=()=>{
+    return(
+        <div>
+            <h1>saikumar</h1>
+        </div>
+    )
 }
-
-export default Saikumar
+export default Saikumar;

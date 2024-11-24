@@ -51,6 +51,8 @@ function App() {
                   </ProtectedRoute>
                 }
               />
+            
+              <Route path='/saikumar'element={<Saikumar/>}></Route>
             </Routes>
           </div>
         </div>

@@ -102,6 +102,18 @@ function Header() {
               </NavLink>
             </li>
 
+            <li>
+              <NavLink
+                to="/saikumar"
+                className={({ isActive }) =>
+                  isActive ? "text-cyan-500 font-semibold ml-2" : "text-gray-800 ml-2"
+                }
+                onClick={handleLinkClick}
+              >
+                Saikumar
+              </NavLink>
+            </li>
+
             {/* Dropdown for Register */}
             <li
               ref={dropdownRef}
