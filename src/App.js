@@ -18,6 +18,7 @@ import Payment from './components/Payment';
 import UserDashboard from './components/UserDashboard';
 import { AuthProvider } from './components/authContext'; 
 import ProtectedRoute from './components/ProtectedRoutes'; 
+import Saikumar from './components/Saikumar';
 
 function App() {
   return (
@@ -38,6 +39,7 @@ function App() {
               <Route path='/posts' element={<Admin />} />
               <Route path='/postsdash' element={<Postsdash />} />
               <Route path='/dashboard' element={<CreatePosts />} />
+              <Route path='/saikumar'element={<Saikumar/>}></Route>
               <Route path='/allposts' element={<Allposts />} />
               <Route path='/payment' element={<Payment/>} />
 
