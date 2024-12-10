@@ -67,6 +67,10 @@ const Slide6 = () => {
             <li>
               Users are prohibited from misusing the platform by posting
               harmful, offensive, or inappropriate content.
+              Users are prohibited from misusing the platform by posting
+              harmful, offensive, or inappropriate content.
+              Users are prohibited from misusing the platform by posting
+              harmful, offensive, or inappropriate content.
             </li>
             <li>
               For cancellations and refunds, please refer to our specific terms
