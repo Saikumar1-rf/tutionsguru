@@ -69,8 +69,8 @@ const Slide6 = () => {
               harmful, offensive, or inappropriate content.
             </li>
             <li>
-              For cancellations and refunds, please refer to our specific terms
-              below. Please read them carefully before proceeding with bookings.
+              For cancellations and refunds, please refer to our specific terms,
+              For cancellations and refunds, please refer to our specific terms.
             </li>
           </ul>
 
